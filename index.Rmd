@@ -1,0 +1,33 @@
+---
+title: "Wifi Spots Zaragoza City"
+author: "Javier Angoy"
+date: "November 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This map shows data for 50 wifi spots in the city of Zaragoza (Spain).
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+library(stringr)
+data = read.csv("./punto-wifi.csv",sep = ";")
+data$estado <- as.factor(tolower(data$estado)) # Fixes lower/upper case issues
+data$lng <-as.numeric(str_split_fixed(as.character(data$geometry), ",", 2)[,1]) # Calculate coordinates
+data$lat <-as.numeric(str_split_fixed(as.character(data$geometry), ",", 2)[,2])
+myicons <- icons(
+    iconUrl = ifelse(data$estado == "en servicio",
+                     "http://www.zaragoza.es/contenidos/iconos/wifi20verde.png",
+                     "http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"),
+    iconWidth = 30, iconHeight = 30
+)
+
+df <- data.frame(lat = data$lat,lng = data$lng)
+df %>% 
+    leaflet() %>%
+    addTiles() %>%
+    addMarkers(icon = myicons,popup=data$title)
+    #addMarkers(icon = data$icon,popup=data$title)
+```

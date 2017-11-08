@@ -1,0 +1,271 @@
+id;title;tipo;internal_id;estado;servicios;cobertura;lastUpdated;pubDate;description;geometry;icon
+"https://www.zaragoza.es/sede/servicio/punto-wifi/293";"Predicadores07";"Map";"G01008-N07";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+
+<ul>
+	<li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+	<li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>
+";"Radio de 60 m, aprox.";2014-08-28T08:52:21Z;2014-08-28T08:52:21Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+
+<ul>
+	<li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+	<li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>
+</li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8845582310174228,41.657445398401286";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/295";"MosenPedroDosset-Solar09";"Map";"G01008-N09";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:52:21Z;2014-08-28T08:52:21Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8839504268309714,41.656844275879315";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/296";"SanJuanDeLaPeña-ValleDeBroto";"Map";"G10003-N01";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:08Z;2014-08-28T09:00:08Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8719095923264332,41.66666760845566";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/298";"CnosDelNorte-MartinDelRio";"Map";"G10003-N03";"Averiado";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:53:29Z;2014-08-28T09:00:08Z;"<ul><li>Estado: Averiado</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8684706351725964,41.665154590969344";"http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/300";"CnosDelNorte-MasDeLasMatas";"Map";"G10003-N05";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:16Z;2014-08-28T09:00:16Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8693120893463875,41.664202018072416";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/302";"PsLongares-AndadorCodos";"Map";"G10007-N01";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:36Z;2014-08-28T09:00:36Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8648360907147584,41.65858441430984";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/303";"PsLongares02";"Map";"G10007-N02";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:36Z;2014-08-28T09:00:36Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8659396273044063,41.65935246476375";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/1";"RiberaAlmozara00";"Rap";"G07002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:59:29Z;2014-08-28T08:59:29Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8962488563525124,41.66403226094111";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/3";"PlazasTemáticas00";"Rap";"G01003-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:48Z;2014-08-28T08:51:48Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8986575737202374,41.66754700574976";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/4";"ParqueEstrellaPolar";"Rap";"G10002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:59:58Z;2014-08-28T08:59:58Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9305345263821454,41.63933806129551";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/7";"PlazaLosSitios00";"Rap";"G04001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:55:03Z;2014-08-28T08:55:03Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8785833728401176,41.649265378634034";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/8";"CMAPA";"Rap";"G01001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:39Z;2014-08-28T08:51:39Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8959195271086952,41.6716019976734";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/10";"Fragua";"Rap";"G01005-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:55Z;2014-08-28T08:51:55Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8775851390742865,41.685871592155785";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/11";"SagradaFamilia";"Rap";"G02002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:53:29Z;2014-08-28T08:53:29Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9100495998332719,41.630127205902724";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/13";"AvPirineos";"Rap";"G01002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:39Z;2014-08-28T08:51:39Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8816636272700461,41.660640026296676";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/14";"MiguelLabordeta00";"Rap";"G05003-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:57:20Z;2014-08-28T08:57:20Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9187382346996574,41.655043852282446";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/17";"IsaacValero";"Rap";"G02001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:53:29Z;2014-08-28T08:53:29Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9114348360760106,41.63176096839727";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/18";"EstaciónDelNorte";"Rap";"G06002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:58:34Z;2014-08-28T08:58:34Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8717386494545474,41.66006902762145";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/20";"ParqueTeodoroSánchez";"Rap";"G11001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:48Z;2014-08-28T09:00:48Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8728396679070497,41.637824482895326";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/21";"CésarAugusto-EscuelasPías";"Rap";"G03003-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:54:41Z;2014-08-28T08:54:41Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.884305340569687,41.65473880277117";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/23";"ParqueDeLaMemoria";"Rap";"G11003-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-29T14:54:31Z;2014-08-28T09:00:56Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8790437186928037,41.63455731230907";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/24";"ParqueLacasaMiralbueno";"Rap";"G09001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:50:54Z;2014-08-28T08:59:58Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9432707629323994,41.65956581139048";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/28";"MauriceRavel";"Rap";"G02004-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:53:42Z;2014-08-28T08:53:42Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9444414704324704,41.63636349367845";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/29";"EsquinasPsiquiátrico";"Rap";"G05002-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:57:20Z;2014-08-28T08:57:20Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9076487534424642,41.64693202764336";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/31";"CentroHistoria";"Rap";"G03001-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:54:33Z;2014-08-28T08:54:33Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8701846402584723,41.650640996097295";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/33";"Olvidados-QuimeraDeOro";"Rap";"G02003-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:53:35Z;2014-08-28T08:53:35Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.920401913971246,41.621275017224015";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/35";"CasaAmparo";"Rap";"G03007-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:54:54Z;2014-08-28T08:54:54Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8882357298689285,41.65805348179766";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/36";"RiberaDerecha10";"Rap";"G08005-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:59:37Z;2014-08-28T08:59:37Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8580505291473768,41.65073500870383";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/40";"JMLasFuentes";"Rap";"G08001-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:59:37Z;2014-08-28T08:59:37Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8687224410075223,41.644899269487624";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/41";"Cementerio-Entrada";"Rap";"G13004-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:01:01Z;2014-08-28T09:01:01Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8874487908796028,41.62373351702838";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/43";"AvdCataluña-Bielsa";"Rap";"G10006-N00";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T09:00:23Z;2014-08-28T09:00:23Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8674533760002839,41.66106479373576";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/45";"RiberaIzquierda00";"Rap";"G06005-N00";"Averiado";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:54:34Z;2014-08-28T08:59:08Z;"<ul><li>Estado: Averiado</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8670303264735004,41.655306324388036";"http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/47";"LópezDeLuna-MaríaAux.";"Rap";"G05005-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:58:34Z;2014-08-28T08:58:34Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9025963310184809,41.645248316303864";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/48";"ParqueRoyoRabal";"Rap";"G06001-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:58:34Z;2014-08-28T08:58:34Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8576088350221329,41.662556719417815";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/52";"Ayuntamiento-Ebro";"RAP";"AytoEbro";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:25Z;2014-08-28T08:51:25Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8769163244771021,41.656327148323854";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/53";"PlazaEspaña-Glorieta";"RAP";"PzaEspanya";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:01:18Z;2014-08-28T09:01:18Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8807461895198108,41.65217387471419";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/55";"EstaciónDelicias-Salidas01";"Rap";"TC-1";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T09:01:18Z;2014-08-28T09:01:18Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9082756542032281,41.656515440977664";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/56";"CiudadSoria-Estación01";"Rap";"BE-1";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:25Z;2014-08-28T08:51:25Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9068462451396022,41.657565667284985";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/57";"AvPuertaSancho-PaseoAgua";"Rap";"BE-6";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:51:32Z;2014-08-28T08:51:32Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.9025791306723963,41.65721760436231";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/59";"PlzStoDomingo";"Rap";"G01008-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:52:14Z;2014-08-28T08:52:14Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>B&aacute;sico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8889635254020488,41.65775190957117";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/62";"GomezAvellaneda-PzaOrtilla";"Rap";"G10005-N00";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:49:10Z;2014-08-28T09:00:16Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8849979497927505,41.66439296672122";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/63";"HernanCortes-BenitoPerezGaldos";"Rap";"G02010-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:54:16Z;2014-08-28T08:54:16Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8904146958949677,41.647965770787465";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/66";"LeonXIII-PsDamas";"Rap";"G02007-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-29T14:59:43Z;2014-08-28T08:53:55Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.884051858332828,41.644971127169555";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/67";"SanBlas-IglesiaSanPablo";"Rap";"G01009-N00";"Averiado";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:53:01Z;2014-08-28T08:52:21Z;"<ul><li>Estado: Averiado</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8859997716524376,41.65633263224681";"http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/69";"CondeAranda-StaInes";"Rap";"G01010-N00";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:52:31Z;2014-08-28T08:52:31Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8911909874483845,41.65579764130943";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/70";"PsMariaAgustin-AnselmoClave";"Rap";"G01006-N06";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:49:27Z;2014-08-28T08:52:03Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8931245312369912,41.6537931736237";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/72";"Sagasta-Goya";"Rap";"G02006-N00";"Averiado";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-09-22T09:53:54Z;2014-08-28T08:53:50Z;"<ul><li>Estado: Averiado</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8860897269400392,41.64236526290874";"http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/73";"Asalto-AznarMolina";"Rap";"G06007-N00";"En servicio";"<p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:59:16Z;2014-08-28T08:59:16Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. &quot;Wizi de Milla Digital&quot;</p>
+<ul>
+    <li>B&aacute;sico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8735824841340228,41.64893420388487";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/75";"CesareoAlierta-CnoLasTorres";"Rap";"G02005-N00";"En servicio";"<p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul>";"Radio de 60 m, aprox.";2014-08-28T08:53:42Z;2014-08-28T08:53:42Z;"<ul><li>Estado: En servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p><ul><li>Básico: 512 Kbps / 256 Kbps</li><li>Premium: 1 Mbps / 256 Kbps</li></ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8775110147599293,41.6448549113153";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"
+"https://www.zaragoza.es/sede/servicio/punto-wifi/77";"PsLaMina-CasaDeSocorro";"Rap";"G02012-N00";"En Servicio";"<p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul>";"Radio de 60 m, aprox.";2014-08-28T08:54:27Z;2014-08-28T08:54:27Z;"<ul><li>Estado: En Servicio</li><li>Servicios: <p>SSID. ""Wizi de Milla Digital""</p>
+<ul>
+    <li>Básico: 512 Kbps / 256 Kbps</li>
+    <li>Premium: 1 Mbps / 256 Kbps</li>
+</ul></li><li>Cobertura: Radio de 60 m, aprox.</li></ul>";"-0.8777565671121558,41.64747582735406";"http://www.zaragoza.es/contenidos/iconos/wifi20verde.png"

@@ -1,0 +1,42 @@
+---
+title: "Wifi Spots Zaragoza City"
+author: "Javier Angoy"
+date: "November 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This map shows data for 100 wifi spots in the city of Zaragoza (Spain).
+Data comes from [here](https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/79).
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+library(stringr)
+library(jsonlite)
+library(data.table)
+
+url <- "http://www.zaragoza.es/sede/servicio/punto-wifi.geojson?srsname=wgs84&rows=100"
+
+jsonData <- fromJSON(url)
+coord <- data.frame(jsonData$features$geometry$coordinates)
+
+t_coord <- transpose(coord)
+names(t_coord) = c("Lon","Lat")
+t_coord$title <- jsonData$features$properties$title
+t_coord$estado <- as.factor(tolower(jsonData$features$properties$estado)) # Fix lower/upper case issues
+
+myicons <- icons(
+    iconUrl = ifelse(t_coord$estado == "en servicio",
+                     "http://www.zaragoza.es/contenidos/iconos/wifi20verde.png",
+                     "http://www.zaragoza.es/contenidos/iconos/wifi20rojo.png"),
+    iconWidth = 30, iconHeight = 30
+)
+
+t_coord %>% 
+    leaflet(width = "100%") %>%
+    addTiles() %>%
+    addMarkers(icon = myicons,popup=t_coord$title) %>%
+  addLegend(labels = c("Operational","Out Service"), colors = c("green", "red"))
+```
